@@ -1,10 +1,10 @@
 # starwars
 
-A new Flutter project.
+Projeto em Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto simples, consumindo uma api
 
 A few resources to get you started if this is your first Flutter project:
 
