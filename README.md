@@ -1,8 +1,6 @@
 # starwars
 
-Projeto em Flutter
+Projeto em Flutter para estudar consumo de api, api usada: https://swapi.dev/
 
-## Getting Started
 
-Projeto simples, consumindo uma api
-
+![](https://i.imgur.com/uHJdx8y.gif)
